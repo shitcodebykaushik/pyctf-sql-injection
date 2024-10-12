@@ -1,0 +1,3 @@
+-  Install the python 
+-  python create_db.py
+-  python app.py
